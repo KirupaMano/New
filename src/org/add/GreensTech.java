@@ -24,6 +24,7 @@ public class GreensTech {
 			grn.greensVelacherry();
 			grn.greensAnnaNagar();
 			
-			System.out.println("Thanks again");
+			System.out.println("Thankyou");
+			System.out.println("Thanks again");	
 		}
 }
